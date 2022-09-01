@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sajjad Kazemi 👨‍💻</h1>
+<h1 align="center">Sajjad Kazemi 👨‍💻</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
+<h4 align='center'>A JS Lover :)</h4>
+<hr/>
 <img align='right' width='300' src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" alt="A Programming Cat">
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning <a target='_blank' href='https://redux-toolkit.js.org/rtk-query/overview'> **Redux Toolkit Query** </a>
 
 - 🔭 I'm currently looking for a job!
 
@@ -11,7 +13,7 @@
 - 💬 Ask me about **React, JavaScript and anything about front end development.**
 
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjad-kazemi&show_icons=true&theme=onedark&cache_seconds=1800&locale=en&layout=compact" alt="sajjad-kazemi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjad-kazemi&show_icons=true&theme=swift&cache_seconds=1800&locale=en&layout=compact" alt="sajjad-kazemi" /></p>
 
 
 
@@ -25,4 +27,4 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
-
+<hr/>
