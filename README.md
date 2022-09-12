@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently looking for a job!
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://sajjad-kazemi.netlify.app)
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://sajjad-kazemi.netlify.app)**
 
 - 💬 Ask me about **React, JavaScript and anything about front end development.**
 
