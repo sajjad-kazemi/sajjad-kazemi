@@ -4,7 +4,7 @@
 <hr/>
 <img align='right' width='300' src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" alt="A Programming Cat">
 
-- 🌱 I’m currently learning <a target='_blank' href='https://redux-toolkit.js.org/rtk-query/overview'> **Redux Toolkit Query** </a>
+- 🌱 I’m currently learning <a target='_blank' href='https://www.typescriptlang.org/'> **Typescript** </a>
 
 - 🔭 I'm currently looking for a job!
 
