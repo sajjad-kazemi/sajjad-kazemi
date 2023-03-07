@@ -4,11 +4,11 @@
 <hr/>
 <img align='right' width='300' src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" alt="A Programming Cat">
 
-- 🌱 I’m currently learning <a target='_blank' href='https://www.typescriptlang.org/'> **Typescript** </a>
+- 🌱 I’m currently learning <a target='_blank' href='https://www.nextjs.org/'> **Next.js** </a>
 
-- 🔭 I'm currently looking for a job!
+- 🔭 I'm currently looking for a job or a project to participate!
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://sajjad-kazemi.netlify.app)**
+- 👨‍💻 All of my projects and my bio are available at **[My Portfolio](https://sajjad-kazemi.netlify.app)**
 
 - 💬 Ask me about **React, JavaScript and anything about front end development.**
 
