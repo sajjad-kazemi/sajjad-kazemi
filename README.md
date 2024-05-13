@@ -1,6 +1,6 @@
 <h1 align="center">Sajjad Kazemi 👨‍💻</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
-<h4 align='center'>A JS Lover :)</h4>
+<h3 align="center">A passionate frontend developer</h3>
+<h4 align='center'>A JS ❤er :)</h4>
 <hr/>
 <img align='right' width='300' src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" alt="A Programming Cat">
 
