@@ -6,9 +6,9 @@
 
 - 🔭 I'm currently looking for a job or a project to participate!
 
-- 👨‍💻 All of my projects and my bio are available at **[My Portfolio](https://sajjad-kazemi.netlify.app)**
+- 👨‍💻 Check out My LinkedIn profile **[My LinkedIn](https://www.linkedin.com/in/sajjad-kazemi)** (click for more info)
 
-- 💬 Ask me about **React, JavaScript , C# and anything about Web development.**
+- 💬 Ask me about **JavaScript, C#, Angular, React, ASP.NET Core and anything about Web development.**
 
 <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjad-kazemi&show_icons=true&theme=swift&cache_seconds=1800&locale=en&layout=compact" alt="sajjad-kazemi" /></p>
