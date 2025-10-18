@@ -11,7 +11,7 @@
 - 💬 Ask me about **JavaScript, C#, Angular, React, ASP.NET Core and anything about Web development.**
 
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjad-kazemi&show_icons=true&theme=swift&cache_seconds=1800&locale=en&layout=compact" alt="sajjad-kazemi" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjad-kazemi&show_icons=true&theme=swift&cache_seconds=1800&locale=en&layout=compact" alt="sajjad-kazemi" /></p> -->
 
 
 
