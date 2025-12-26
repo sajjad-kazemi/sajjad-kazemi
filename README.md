@@ -4,12 +4,11 @@
 <hr/>
 <img align='right' width='300' src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" alt="A Programming Cat">
 
-- 🔭 I'm currently getting deeper in Angular concepts!
+ 🔭 I'm currently getting deeper in Angular concepts!
 
-- 👨‍💻 Check out My LinkedIn profile **[My LinkedIn](https://www.linkedin.com/in/sajjad-kazemi)** (click to open)
+ 👨‍💻 Check out My LinkedIn profile **[My LinkedIn](https://www.linkedin.com/in/sajjad-kazemi)** (click to open)
 
-- 💬 Ask me about **JavaScript, C#, Angular, React, ASP.NET Core and anything about Web development.**
-
+ 💬 Ask me about **JavaScript, Angular, React, C#, ASP.NET Core and anything about Web development and I hope I can help 😊.**
 <br/>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjad-kazemi&show_icons=true&theme=swift&cache_seconds=1800&locale=en&layout=compact" alt="sajjad-kazemi" /></p> -->
 
@@ -30,4 +29,4 @@
 <a href="https://learn.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-9.0" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png?20210328084203" alt="Asp.net core mvc" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2022" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" alt="Asp.net core mvc" width="40" height="40"/> </a>
 </p> -->
-<hr/>
+<!-- <hr/> -->
