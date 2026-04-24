@@ -4,7 +4,7 @@
 <hr/>
 <img align='right' width='300' src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" alt="A Programming Cat">
 
- 🔭 I'm currently getting deeper in Angular concepts!
+ 🔭 I'm currently getting deeper in Software Architectures!
 
  👨‍💻 Check out My LinkedIn profile **[My LinkedIn](https://www.linkedin.com/in/sajjad-kazemi)** (click to open)
 
